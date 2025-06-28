@@ -105,7 +105,7 @@ def favorite_color():
 FunctionCallingwithOpenAI/
 ├── 1.ipynb              # Main Jupyter notebook
 ├── README.md            # This file
-└── .gitignore          # Git ignore file (recommended)
+└── LICENSE              # Liscence File
 ```
 
 ## 🚨 Troubleshooting
