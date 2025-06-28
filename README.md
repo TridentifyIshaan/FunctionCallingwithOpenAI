@@ -148,7 +148,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Azure OpenAI team for the comprehensive API
 - OpenAI for the function calling capabilities
-- The Jupyter community for the excellent notebook environment
 
 ## 📞 Support
 
@@ -157,9 +156,3 @@ If you encounter any issues or have questions:
 1. Check the [Troubleshooting](#🚨-troubleshooting) section
 2. Review the [Azure OpenAI documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/openai/)
 3. Open an issue in this repository
-
----
-
-**Happy Coding!** 🎉
-
-Made with ❤️ for the AI development community
